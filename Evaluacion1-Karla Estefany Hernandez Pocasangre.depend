@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1711171728 source:c:\users\karla\videos\universidad de sonsonate c1 2024\lab programacion\evaluacion 1\evaluacion1-karla estefany hernandez pocasangre\src\abono.cpp
+	<iostream>
+	"Fecha.h"
+	"Abono.h"
+
+1711168663 c:\users\karla\videos\universidad de sonsonate c1 2024\lab programacion\evaluacion 1\evaluacion1-karla estefany hernandez pocasangre\include\fecha.h
+
+1711171720 c:\users\karla\videos\universidad de sonsonate c1 2024\lab programacion\evaluacion 1\evaluacion1-karla estefany hernandez pocasangre\include\abono.h
+	"Fecha.h"
+
+1711169535 source:c:\users\karla\videos\universidad de sonsonate c1 2024\lab programacion\evaluacion 1\evaluacion1-karla estefany hernandez pocasangre\src\cliente.cpp
+	<iostream>
+	"Cliente.h"
+
+1711169558 c:\users\karla\videos\universidad de sonsonate c1 2024\lab programacion\evaluacion 1\evaluacion1-karla estefany hernandez pocasangre\include\cliente.h
+	<string.h>
+
+1711170603 source:c:\users\karla\videos\universidad de sonsonate c1 2024\lab programacion\evaluacion 1\evaluacion1-karla estefany hernandez pocasangre\src\cuenta.cpp
+	<iostream>
+	"Cliente.h"
+	"Abono.h"
+	"Cuenta.h"
+
+1711170151 c:\users\karla\videos\universidad de sonsonate c1 2024\lab programacion\evaluacion 1\evaluacion1-karla estefany hernandez pocasangre\include\cuenta.h
+	"Abono.h"
+	"Cliente.h"
+
+1711171798 source:c:\users\karla\videos\universidad de sonsonate c1 2024\lab programacion\evaluacion 1\evaluacion1-karla estefany hernandez pocasangre\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1711171271 source:c:\users\karla\videos\universidad de sonsonate c1 2024\lab programacion\evaluacion 1\evaluacion1-karla estefany hernandez pocasangre\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Cuenta.h"
+	"Cliente.h"
+	"Fecha.h"
+	"Abono.h"
+	"stdlib.h"
+
